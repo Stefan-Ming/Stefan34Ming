@@ -1,0 +1,26 @@
+{
+  "name": "Jack Osborne",
+  "age": 21,
+  "address": {
+    "street": "Ofopo Manor",
+    "city": "Lothepa",
+    "state": "HI",
+    "zip": "06348"
+  },
+  "contact": {
+    "phone": "(257) 930-7773",
+    "servicePhone": "800152413"
+  },
+  "birthday": "2005-08-24T04:19:21.670Z",
+  "ip": "32.51.73.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Hakvek runlu hi rokul opuiguvit uza vihlusmup hit wuvsikih zilabus ajonev jilubvi geb kojebhok seocsu hucal ka. Eropif nagu jegait rocwiko lowluh modigaki lapisuh haejzuw mu jiwnud degouv pucwatzeb cufkebos zican gifsoz wehe. Nojom leobe basewe maehogu din baccuc to ef nag as vog wufoz sib pomojfa. Ziudse wuuteone me ta dog ibjan fokkedo we nu lubki usfamsit wiemepoz op gasewgud coj.",
+    "bio": "Fa zeso aki za ojgi fehlal el bir matze ek eni vu bejwarwe ormonuf. Hazut luhal do jisubjez patetjis meh uwareju veakowon ama natmir fecumi gid unwiku. Losidza noet gewavgis otwip be rus sunvew ogri ughut gulizef esugi no."
+  },
+  "apiKey": "943f9b426e7832c01b41cbdb30f20a8858ded2521a16f9275aeb49ac3da6540f",
+  "currency": {
+    "code": "CDF",
+    "name": "Congo/Kinshasa Franc"
+  }
+}
