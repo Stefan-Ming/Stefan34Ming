@@ -1,0 +1,26 @@
+{
+  "name": "Chester Cain",
+  "age": 61,
+  "address": {
+    "street": "Javlis Mill",
+    "city": "Hawgage",
+    "state": "OH",
+    "zip": "66897"
+  },
+  "contact": {
+    "phone": "(789) 339-6039",
+    "servicePhone": "800225978"
+  },
+  "birthday": "1984-09-17T20:26:48.315Z",
+  "ip": "64.143.163.239",
+  "foo": "bar",
+  "profile": {
+    "about": "Nijde webdes cat ni naad dag be bafru tim owa ifdonfev esumu. Niggi okabow assad ci cugu ges ulemebi mot anu fohbusegi ho li we sigfulaw. Fikol aguzowod hipi ogu lok ve tul suw laco ozo ji evu eti hipow ev. Lune efotieh ebagastiv hi devecu busimlu og aka he nide awepo de. Raoz futenzig olizasan nofir adijuon vejuer idi nabpamkoz garis gabta gelul mil bosihes dodlok ganine.",
+    "bio": "Kag nifri wer jabkit zephosop tijkijin hahohdo se ujfi cobli nocrab cimhof. Gore mokjeg oro la rajo teor so hi rindi fa va sifkiduno kopbigaz deknabah relo. Vave zehidkuh logirel zoze ve tenoni izajusa gi tefervo tus fodoha osuud netho nehat memroti ecisura re funukzu. Rugijjek ucasule genbafa kogetu ligren fuodcit gafan doak uh hiamak bujum pul gumaw zaogidog cit. Gocbufa japa henihar zepwadga ji pis to ju emi eci ewci zoderomu faho. Caku vekwevo di biubahe avu opu bicovfi ge upga kuzpucme mezofopo sem sapogrum li pewrelep. Cattozpu ja wunin udaut zulic pojjug be zavtas vep pa feosiom ha gabu ar la denkazil nubegna."
+  },
+  "apiKey": "18642ffddd893cc31804dbd7592bfb794ff486096f92f357fcff0a6a6d844a34",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
