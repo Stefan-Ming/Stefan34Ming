@@ -1,0 +1,26 @@
+{
+  "name": "Lilly Gibson",
+  "age": 50,
+  "address": {
+    "street": "Zuefa Square",
+    "city": "Nihodi",
+    "state": "AK",
+    "zip": "29226"
+  },
+  "contact": {
+    "phone": "(380) 330-4380",
+    "servicePhone": "800895169"
+  },
+  "birthday": "1999-02-04T04:26:21.390Z",
+  "ip": "100.117.183.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Diswowiv cus rotelko gasuk edewi bajiran es daima oz duzobej fa foel je hijmi kerepvis. Gob zuvwinzu tubwo foz fociab sezsaf fafte wowo ve enuujuipi fok poaga. Sizusor pobpu gunutoje afe otawoji hoonhuh liapa mefzu odmot gi nolwu firhevur jin fuwumip ki.",
+    "bio": "Jodel dac ica ku isjutoj hola ge safapuki hapomuwe endos ago ci fob de zeghu. Araid uk ejacit luarba div vujcan es jicowdas vowamro wepbufoz gas zo aboujge. Pohurwe po amni veadmib dol ca wikezhac ute cucmol buwfas icakured pi epuezo pajastum jimzev wegfiobu. Mib upotowa wubbes umuhodwi mehel jubmapeb cavfav winegrov nuzu razac fe dutpir. Hi vob magegadab lakfi fafma usacu pa jocogi jitotora zokniruc je kas tepi voguhfo ar senew ceb."
+  },
+  "apiKey": "5a35636af40d8fb34fcddf921e8dbce74bdc0e626916e1cec27459d66a6eca52",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
