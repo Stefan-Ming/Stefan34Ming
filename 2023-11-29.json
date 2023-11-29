@@ -1,0 +1,26 @@
+{
+  "name": "Amelia Richards",
+  "age": 19,
+  "address": {
+    "street": "Suter Loop",
+    "city": "Rijefboj",
+    "state": "NE",
+    "zip": "63395"
+  },
+  "contact": {
+    "phone": "(861) 740-1681",
+    "servicePhone": "800923395"
+  },
+  "birthday": "1991-01-20T20:33:44.613Z",
+  "ip": "91.31.16.158",
+  "foo": "bar",
+  "profile": {
+    "about": "Vipi nifocaz vip ditho fenuk owiwij tekeci je supcek ceazo bafij sa be vuh mertu rut. Ka teh abonlu kohoeja le wide wobtar inmatir eletaf cahena amoromro let fewcam pivopan luugu zuvni pelvege. Kozcapga cochok vetkuzsoz naco kewviala mug hi tud zufeet ormime huweb gepbe ivdibcer piovetu eh.",
+    "bio": "Uwe zok vuarlo idaka civor ifkadedu napdec siupco geje balnozi uhwesij leggatic. Fob kuf gopi diba suzo ir ze hucve tabpumo sikgucum woivo vajza suvsufi onbe ujeludem riweak fop batecide. Guswuzvu nankisje ezmiwis wum cincusaj idopubki ahaezavu bodmuet ja dag depgadzi cagfej abe uwo kotocul epa kuzdi."
+  },
+  "apiKey": "f64511d6094ec139785f6cd978ff8ce3bb9cd7b040fc2efcf7847d3eeafa79c8",
+  "currency": {
+    "code": "BDT",
+    "name": "Bangladesh Taka"
+  }
+}
