@@ -1,0 +1,26 @@
+{
+  "name": "Amy Norris",
+  "age": 52,
+  "address": {
+    "street": "Wizmu Key",
+    "city": "Memozpe",
+    "state": "SC",
+    "zip": "85205"
+  },
+  "contact": {
+    "phone": "(443) 730-1862",
+    "servicePhone": "800951965"
+  },
+  "birthday": "1989-07-27T11:08:43.783Z",
+  "ip": "7.41.118.86",
+  "foo": "bar",
+  "profile": {
+    "about": "Iga uc tuk rahe nout zed jak jazmica kev efu ha tethekguk fuk uco hat. Node juwtak lazub ij netu vuzre sovunhe dujavul asiwob dede irawuvkal iso vuvsi. Cegra mus hed geef hedfe pav tev cizo hokungeh tebipe getagho sere na zugoji. Cod tefraplic ge tod vuhirob uslojto iwwajga abzuge pe muj ulegiwdu ka.",
+    "bio": "Eji dak wuvda fohholro neftavwes mime hucumaj huhduike vo fova ceob tuzfarmaw ohgih hovlesde. Oru ib jog liekisu papon wukaso upke izvila ikaoca fe hib hagkuv far woz. Si zonake fo gurjo obja sa nug zunob ti pizuzru ku ulage."
+  },
+  "apiKey": "ffdbd0202b00fa579e32f2a07051f6c4c7d7fb2369a5e9201b12901d21bd58a4",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
