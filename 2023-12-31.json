@@ -1,0 +1,26 @@
+{
+  "name": "Bettie Smith",
+  "age": 31,
+  "address": {
+    "street": "Kubnec Street",
+    "city": "Otivigen",
+    "state": "OH",
+    "zip": "64220"
+  },
+  "contact": {
+    "phone": "(925) 787-1151",
+    "servicePhone": "800516586"
+  },
+  "birthday": "1998-07-30T03:04:42.201Z",
+  "ip": "135.144.108.90",
+  "foo": "bar",
+  "profile": {
+    "about": "Votcisap ku ociwatuc rejfen reecu fa kazmagih zedsilu kusbef zibini ireakhaj suzaj lepfiz zudpavun. We hikejlu gabku dirputan lihga pew jena coj obakovi dueglu tiz ubetus new. Nozocum jimec zalo mabbus gi vihsamep puzwewo ugu vavsewhe gopes zuwfoos raihu eteagnoc eza rec puntic ege he. Akozu dud rijagfi sag rozede ogan rebitda rimzaj iwwieha ve fipaw du. Zoov ilecakes pakrev re kitiraw tuezeove fu dihva memed educe uwuvaj elejus gifut vupel ril. Zitin mascevhad ulijumud us kihso muh baude ufba fizfelo ujemozzef fukab vokusto junloc winmahlaf je filpelkar nim.",
+    "bio": "Varlit decefnir ba lighu sus boj edu tat sek vu lo gig. Taozwu soohtug ipaecu suij cige papze fagif iku recuhso sotil hob enup ze di mosatemo wegejat cek tibili. Dukibve tosezi onojev uwsig oc lenicogus wamca ceesu vodko oraegehu mewehjo dovmunrik at ni. Dojetu fag pallet su gibohet osuzgu tol pugesab cuujgow lovevuz vo befpahel zitwov jafel rufavuc uteuf ak."
+  },
+  "apiKey": "bcc004518e6c1f2cef2b38c255b10dd0151375a0744a3be835c3922c1500c7f9",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
