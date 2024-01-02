@@ -1,0 +1,26 @@
+{
+  "name": "Maria Carlson",
+  "age": 35,
+  "address": {
+    "street": "Jezsu Ridge",
+    "city": "Judsumel",
+    "state": "MO",
+    "zip": "66471"
+  },
+  "contact": {
+    "phone": "(370) 316-5114",
+    "servicePhone": "800443847"
+  },
+  "birthday": "1987-11-11T12:21:14.916Z",
+  "ip": "178.130.239.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Ki dogocieg aceis jibvuzce zam weha luw pima mejet geod toozu hefobfa urzutil mur po jiki vu gioso. Guoda ehavu sena im zir pu om vazi ritubih dat fofwopba da ji ve. Dofmihab nopaw hij purvihoca esiziwjif nafhelu zagus hisoha ukugi diibik ceafapo hetahe fed fogat vihufdef penosac. Fukohpu mutef gumukeci watowuar geh pohdu isu juc bup runi gaiwrut su wigitoof ilogavdi fac kidolow.",
+    "bio": "Pet kog jutsiot so loven ezkiro jabtodke idumiugu huvkos sirod wot romakta kouc nuarefe. Duk fiwcom po li eta lu rov rifomi go iwo rinup ba fe of notti we feok kadise. Sezno de wo etdelof siz af rutmur jat riwolu vuda ov pez."
+  },
+  "apiKey": "9a9fc9f5eda82f12382431ad249b93e780cf43f14d8785ebd9cec39e6e011d54",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
