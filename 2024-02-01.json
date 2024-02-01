@@ -1,0 +1,26 @@
+{
+  "name": "Howard Mendoza",
+  "age": 18,
+  "address": {
+    "street": "Livli Highway",
+    "city": "Sajezmor",
+    "state": "IA",
+    "zip": "25064"
+  },
+  "contact": {
+    "phone": "(702) 956-3275",
+    "servicePhone": "800851174"
+  },
+  "birthday": "1959-11-20T21:27:28.996Z",
+  "ip": "181.181.71.213",
+  "foo": "bar",
+  "profile": {
+    "about": "Namtog owuwibu wungow ofiapofag ruszuoc goc ca voton kojeno bizme cimlig zocefro cup. Wawaz bogi fowfudcet zicwidi nansawba vozan vidose mih zajazli urzopan adubisidi hepbuivi ataiw go wabrahze odu. Ive maib into kap fernuw racu rihgujug goopoif po paadsuj paupenin vu bauzgac upipokec vo urenabo.",
+    "bio": "Ifdolru ew supiaku womogmu wocpudnu civ vojha pefa ze la nutib nozko tiwupor puwuzgu kismithu jal. Fo egmiz neto kijkinuh coktaju do len zochu zuvlahoh tavedgo hipihuf gu we uce caevpav. Girun hif ge be poeno jiv vu fo kel kakaz zok cal."
+  },
+  "apiKey": "582a3995e1c0b3dc46b4663af3e3187d6ba9280a5c4c2003d021354379bcbfce",
+  "currency": {
+    "code": "VUV",
+    "name": "Vanuatu Vatu"
+  }
+}
