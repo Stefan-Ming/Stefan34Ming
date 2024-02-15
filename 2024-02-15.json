@@ -1,0 +1,26 @@
+{
+  "name": "Seth McLaughlin",
+  "age": 51,
+  "address": {
+    "street": "Sezu Park",
+    "city": "Bikuwe",
+    "state": "UT",
+    "zip": "47418"
+  },
+  "contact": {
+    "phone": "(376) 990-7812",
+    "servicePhone": "800412781"
+  },
+  "birthday": "2001-09-04T09:22:58.181Z",
+  "ip": "22.210.107.133",
+  "foo": "bar",
+  "profile": {
+    "about": "Ewza hemjof ne pom huze irbu fo no metfotheg kulozec us baces ozotme fobouke buk gehobija maajko. Icobub imko remuune demcak uf atiefoaji pil otwe bif iw sodnadu rocvo. Ercus maemepaw vihodap dun puur notuc vi uru zuc jef fe wavikwu moih cuc gi ja.",
+    "bio": "Ofuvedom pa fadcop ralmatcur sasepud hecvedcut jo kawomego am taj tuzkikte sabnew imeke lom ga he sevgos ukida. Uhu cuvuj tu ujuacevo bouda sojzisofo riw iwfi heh daetuwu mu hud gopdurco. Tol jet pum zivobe sova can gakpeke ovujadkut avcucug it vur nig."
+  },
+  "apiKey": "4f0138ac82074c436dd8800b6217217acca145b52bf515b8672e4a647d0c2a70",
+  "currency": {
+    "code": "UYU",
+    "name": "Uruguay Peso"
+  }
+}
