@@ -1,0 +1,26 @@
+{
+  "name": "Sara Goodman",
+  "age": 27,
+  "address": {
+    "street": "Dikel Plaza",
+    "city": "Sekmufsog",
+    "state": "RI",
+    "zip": "24514"
+  },
+  "contact": {
+    "phone": "(301) 369-6942",
+    "servicePhone": "800312468"
+  },
+  "birthday": "1967-04-28T08:23:42.793Z",
+  "ip": "149.74.89.207",
+  "foo": "bar",
+  "profile": {
+    "about": "Co fop fe gupitjo pe ovdehbu guiksi de alecar kafsidi cedad liludgu sawauz nidihepi verop sak fe kamuconi. Tiwnem wij zatkijil nijzih jac gec ve egeav met na ovemezudi zovofur. Wi sosvoval pu su mecso kazajmu juc em ru zog wascajum kohsuk juvopeh ne cekubaho fivare ehibi elhebe. Nadic jeati vadi tobpavwil begvi niwok za bot zu zodgu dahap nucjin monid zi suz katte jaljuogi.",
+    "bio": "Junihu bun kewotus va halis tu guj lop fas ekiducel him tuceh rowhic sagdeg. Tojbivon zozog fu umuwijad ekul zuniec zu ugibo terodim kuhroeb enear dowgijic. Saz ohebeg bo ub korew adu atcudro wesvov nid ujoca vit ikbo miem pe ri fodes seco. Evtotlud ked zajwasoh na moweshim mudeli vadupu jorweknut ki of ka igup huugueze adhif len basodola kig. Re ve fidige jebzebjod tu ojuawe nigacku ce ruize fupog eju dep. Ra jef kebeje etwibec ko luja matuk tesad pubo muhopkuk fuduje tulavpud."
+  },
+  "apiKey": "9284a375fe6859cfde769271cbb8e1fb2551f42042e898fe2a38fe8043e23265",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
